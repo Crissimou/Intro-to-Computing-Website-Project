@@ -125,13 +125,13 @@ section .welcome .title h1{
             height: 8.5vh;
         }
 
-               section nav .logo img {
+         section nav .logo img {
             width: 50px;
         }
         
         section nav ul {
             display:flex;
-            margin-right: 30%;
+            margin-right: 20%;
         }
 
         section nav li{
