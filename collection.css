@@ -277,7 +277,7 @@ button{
     
     section nav ul {
         display:flex;
-        margin-right: 30%;
+        margin-right: 20%;
     }
 
     section nav li{
@@ -294,15 +294,3 @@ button{
 
 
 
-
-
-
-
-
- /* Media Queries for larger screens */
- @media only screen and (min-width: 769px) {
-    section nav .hamburger {
-        display: none;
-        /* Add this line to hide the hamburger icon on larger screens */
-    }
-}
