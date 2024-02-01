@@ -163,7 +163,7 @@ section .contact .contact-us h2{
 
    /* Media Query */
    @media only screen and (max-width: 768px) {
-    html, body{
+       html, body{
         width: 100%;
         
     }
@@ -194,7 +194,7 @@ section .contact .contact-us h2{
     
     section .contact .contact-us h2{
 
-        font-size: 30px;
+        font-size: 25px;
         margin-left: -15%;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         text-align: center;
@@ -205,7 +205,10 @@ section .contact .contact-us h2{
     }
 
     .content h2{
-        font-size: 30px;
+        font-size: 25px;
         margin: 4% 4%;
+    }
+    input[type=submit] {
+    font-size: 10px;
     }
 }
